@@ -1,0 +1,402 @@
+.container {
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: 5000px;
+
+}
+
+
+.header {
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: 250px;
+
+
+}
+
+
+body {
+
+    margin: 0px;
+}
+
+.headerup {
+    background: rgb(189, 54, 54);
+    width: 100%;
+    height: 40px;
+    display: flex;
+
+
+}
+
+
+.headerup1 {
+
+    width: 35%;
+    height: 50px;
+    float: left;
+
+
+}
+
+.headerup2 {
+
+    width: 50%;
+    height: 50px;
+
+    float: left;
+
+}
+
+.text1 {
+
+    color: aliceblue;
+    font-size: 17px;
+    font-family: Lato;
+    margin-left: 60px;
+    padding-top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.text2 {
+
+    color: aliceblue;
+    font-size: 17px;
+    font-family: Lato;
+    margin-left: 60px;
+    margin-top: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.headermiddle {
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: 140px;
+}
+
+.headermiddle1 {
+    background: rgb(255, 255, 255);
+    width: 18%;
+    height: 130px;
+    margin-left: 200px;
+    float: left;
+
+}
+
+.headermiddle2 {
+    background: rgb(255, 255, 255);
+    width: 40%;
+    height: 130px;
+    float: left;
+}
+.headermiddle3 {
+    background: rgb(255, 255, 255);
+    width: 20%;
+    height: 130px;
+    float: left;
+}
+.headermiddle4 {
+    background: rgb(255, 255, 255);
+    width: 10%;
+    height: 130px;
+    float: left;
+}
+
+.logo {
+
+
+    width: 350px;
+    height: 80px;
+    margin-right: 130px;
+
+    margin-top: 20px;
+    cursor: pointer;
+    
+
+}
+
+
+.logo2 {
+
+
+    width: 280px;
+    height: 80px;
+    margin-right: 130px;
+
+    margin-top: 20px;
+
+}
+
+.logo3 {
+
+
+    width: 50px;
+    height: 50px;
+    margin-right: 130px;
+
+    margin-top: 35px;
+
+}
+
+.search_1 {
+
+    width: 800px;
+    height: 40px;
+    margin-top: 35px;
+    font-size: 23px;
+}
+
+.line {
+
+    background: rgb(218, 211, 211);
+    width: 100%;
+    height: 2px;
+}
+
+.headerbottom {
+    background: rgb(255, 255, 255);
+    width: 100%;
+    height: 68px;
+
+}
+
+.clasification {
+
+    margin-left: 200px;
+    margin-top: 25px;
+    font-size: 21px;
+    table-layout: auto;
+    width: 1700px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+
+.slider {
+
+    width: 100%;
+    height: 630px;
+
+
+}
+
+.image {
+
+    width: 100%;
+    height: 630px;
+
+}
+
+.bodypart1 {
+    background: white;
+    width: 100%;
+    height: 830px;
+    margin-top: 100px;
+
+}
+
+.bodypart1_1 {
+
+    width: 18%;
+    float: left;
+    margin-left: 10%;
+    margin-right: 2%;
+
+}
+
+.best {
+
+    font-size: 34px;
+    text-align: center;
+    margin-top: 200px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}
+
+.best_1 {
+    font-size: 22px;
+    text-align: center;
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.bodypart1_2 {
+
+    background: white;
+    width: 18%;
+    height: 750px;
+    float: left;
+    border-width: 3px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    margin-right: 2%;
+}
+
+.prd1text_1 {
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.prd1text_2 {
+    font-size: 19px;
+    color: rgb(39, 146, 54);
+    font-weight: bold;
+    text-align: center;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+}
+
+.prd1 {
+    width: 100%;
+    border-radius: 15px;
+
+
+}
+
+.bodypart1_3 {
+
+    background: white;
+    width: 18%;
+    height: 750px;
+    float: left;
+    border-width: 3px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    margin-right: 2%;
+}
+
+.prd2 {
+    width: 100%;
+    border-radius: 15px;
+
+}
+
+.bodypart1_4 {
+
+    background: white;
+    width: 18%;
+    height: 750px;
+    float: left;
+    border-width: 3px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    margin-right: 2%;
+}
+
+.prd3 {
+    width: 100%;
+    border-radius: 15px;
+
+}
+
+.addto {
+
+    background: rgb(0, 175, 239);
+    height: 90px;
+    margin-top: 167px;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+.addto1 {
+
+    background: rgb(0, 175, 239);
+    height: 90px;
+    margin-top: 167px;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+.cart {
+
+    font-size: 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    padding-top: 24px;
+    text-align: center;
+    color: white;
+}
+
+.price {
+
+    font-size: 46px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+
+}
+
+.pricediv {
+    background: rgb(255, 255, 255);
+    height: 110px;
+
+
+}
+
+.pricediv2 {
+    background: rgb(255, 255, 255);
+    height: 100px;
+}
+
+.bodypart2 {
+    background: white;
+    width: 100%;
+    height: 830px;
+    margin-top: 20px;
+
+}
+
+.bottom_1{
+
+    background: rgb(34, 31, 31);
+    width: 100%;
+    height: 600px;
+    background-image: url("https://mamaearthp.imgix.net/wysiwyg/desktop_home_img.png?auto=format");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.bottomtext{
+
+    margin-left: 20%;
+    padding-top: 100px;
+   
+}
+.btext1{
+text-align: center;
+font-size: 40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.btext2{
+    text-align: center;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    font-weight: bold;
+
+}
+
+.btext3{
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
